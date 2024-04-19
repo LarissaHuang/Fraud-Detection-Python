@@ -1,6 +1,7 @@
 # Fraud-Detection-Python
 Author: Larissa Huang
 
+This project demonstrates several fraud analysis techniques, including the following:
 
 ### Working with imbalanced data
 
