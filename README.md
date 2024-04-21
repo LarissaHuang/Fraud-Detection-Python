@@ -7,6 +7,9 @@ This project demonstrates several fraud analysis techniques, including the follo
 
 - Highly imbalanced fraud data
 - Resampling data 
+
+![minority oversampling comparision](images/SMOTE.png)
+
 - **Tools: SMOTE, scikit-learn, train-test-split, matplotlib**
 
 
@@ -17,6 +20,9 @@ This project demonstrates several fraud analysis techniques, including the follo
 - Performance metrics
 - Hyperparamter optimization
 - Ensemble methods (model weight adjustments)
+
+![precision recall curve](images/pr-curve.png)
+
 - **Tools: confusion matrix, classification report, roc_auc_score, precision-recall curve, GridsSearchCV, VotingClassifier, Seaborn**
 
 
@@ -25,6 +31,9 @@ This project demonstrates several fraud analysis techniques, including the follo
 - Customer segmentation
 - K-means clustering to detect fraud using outliers and small clusters,
 - DB-scan clustering
+
+![elbow curve](images/elbow.png)
+
 - **Tools: MiniBatchKMeans, silhouette score, homogeneity score, elbow curve**
 
 
@@ -34,5 +43,8 @@ This project demonstrates several fraud analysis techniques, including the follo
 - Flag certain words and topics
 - Topic modeling for fraud detection
 - Topic visualization
+
+![topic modeling](images/topics.png)
+
 - **Tools: nltk, LDA, bagofwords, doc2bow, pyLDAvis, gensim, corpora**
 
